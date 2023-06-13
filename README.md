@@ -13,52 +13,27 @@ Excellerator is an AI-powered tool that empowers users to perform advanced actio
 
 ## Tech Stack
 
-- **Streamlit**: A Python library used for building interactive web applications. It provides a user-friendly interface for users to interact with the AI-powered functionalities of ExcelAI.
-- **LangChain**: A Python-based framework designed for developing applications that are powered by language models. LangChain enables ExcelAI to connect with its environment, interact with other data sources, and perform various tasks such as prompt management, memory persistence, agent simulations, question answering, and more.
-- **Python**: The primary programming language used to develop ExcelAI. Python offers a wide range of libraries and frameworks that facilitate data analysis and AI capabilities.
-- **Pandas**: A powerful data manipulation library in Python that provides essential tools for working with structured data. Pandas is utilized in ExcelAI to efficiently handle Excel spreadsheets and perform data transformations.
-- **OpenAI**:
-- 
-
-## Installation
-
-1. Clone the GitHub repository:
-
-   ```shell
-   git clone https://github.com/your-username/excellerator.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```shell
-   cd excellerator
-   ```
-
-3. Install the required dependencies using pip:
-
-   ```shell
-   pip install -r requirements.txt
-   ```
-
-## Usage
-
-1. Run the application using the following command:
-
-   ```shell
-   streamlit run app.py
-   ```
-
-2. Access the application in your web browser at `http://localhost:8501`.
+- **Streamlit**: A Python library used for building interactive web applications. It provides a user-friendly interface for users to interact with the AI-powered functionalities of Excellerator.
+- **LangChain**: A Python-based framework designed for developing applications that are powered by language models. LangChain enables Excellerator to connect with its environment, interact with other data sources, and perform various tasks such as prompt management, memory persistence, agent simulations, question answering, and more.
+- **Python**: The primary programming language used to develop Excellerator. Python offers a wide range of libraries and frameworks that facilitate data analysis and AI capabilities.
+- **Pandas**: A powerful data manipulation library in Python that provides essential tools for working with structured data. Pandas is utilized in Excllerator to efficiently handle Excel and excel-like spreadsheets in order to perform data transformations.
+- **TBD**
 
 3. Upload your Excel spreadsheet (or csv file) and interact with the AI-powered functionalities provided by Excellerator.
 
-## Contributing
+## How You Can Contribute
 
-Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request. Make sure to follow the project's code of conduct.
+As we are in the early stages of our project, we are currently accepting contributions on a selective basis. Our focus is on exploring a multitude of possibilities to enhance our project, while ensuring that each addition aligns with our commitment to an exceptional User Experience (UX).
+
+We are not just developing for the sake of it, but with a clear mission to address real-world user challenges. Therefore, each feature we consider is meticulously evaluated to ensure it contributes to finding the right product-market fit.
+
+We warmly welcome and appreciate your suggestions, ideas, and improvements. Feel free to open an issue, submit a pull request, or simply reach out to us. As our project matures and our concept becomes more defined, we will be sharing our development needs and actively accepting pull requests.
+
+Thank you for your interest and understanding as we navigate these initial stages of our project's development.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+TBD
 
 ## Contact
 
