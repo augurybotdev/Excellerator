@@ -20,21 +20,3 @@ Excellerator is an AI-powered tool that empowers users to perform advanced actio
 - **TBD**
 
 3. Upload your Excel spreadsheet (or csv file) and interact with the AI-powered functionalities provided by Excellerator.
-
-## How You Can Contribute
-
-As we are in the early stages of our project, we are currently accepting contributions on a selective basis. Our focus is on exploring a multitude of possibilities to enhance our project, while ensuring that each addition aligns with our commitment to an exceptional User Experience (UX).
-
-We are not just developing for the sake of it, but with a clear mission to address real-world user challenges. Therefore, each feature we consider is meticulously evaluated to ensure it contributes to finding the right product-market fit.
-
-We warmly welcome and appreciate your suggestions, ideas, and improvements. Feel free to open an issue, submit a pull request, or simply reach out to us. As our project matures and our concept becomes more defined, we will be sharing our development needs and actively accepting pull requests.
-
-Thank you for your interest and understanding as we navigate these initial stages of our project's development.
-
-## License
-
-TBD
-
-## Contact
-
-For any inquiries or further information, please contact augurybotdev(mailto:augurybotdev@gmail.com).
